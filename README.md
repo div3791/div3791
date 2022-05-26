@@ -1,7 +1,7 @@
 ### Hello World!! I am Divyesh M. Shani 👋
 
 - 🔭 I’m currently working on Flutter concepts demo for GitHub
-- 💬 Ask me anything about Flutter or any technical things related to mobile app development
+- 💬 Ask me anything about any technical things related to mobile app development
 - 📫 Contact me:
      **Skype**: er.divyesh.shani , 
      **Email**: div3791@gmail.com , 
