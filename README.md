@@ -1,13 +1,12 @@
-### Hi there!! I am Divyesh M. Shani 👋
+### Hello World!! I am Divyesh M. Shani 👋
 
-- 🔭 I’m currently working on Flutter concepts demo
+- 🔭 I’m currently working on Flutter concepts demo for GitHub
 - 💬 Ask me anything about Flutter or any technical things related to mobile app development
-- 📫 Contact me: 
--     Skype: er.divyesh.shani
--     Email: div3791@gmail.com
--     LinkedIn: [Divyesh Shani](https://www.linkedin.com/in/ershani/)
--     
-- 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Contact me:
+     **Skype**: er.divyesh.shani , 
+     **Email**: div3791@gmail.com , 
+     **LinkedIn**: [Divyesh Shani](https://www.linkedin.com/in/ershani/)
+
+
+[![Divyesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=div3791&show_icons=true&theme=dracula&title_color=4287f5)](https://github.com/anuraghazra/github-readme-stats)
 
