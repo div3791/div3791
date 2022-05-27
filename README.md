@@ -1,6 +1,6 @@
 ### Hello World!! I am Divyesh M. Shani 👋
 
-- 🔭 I’m currently working on Flutter concepts demo for GitHub
+- 🔭 I’m currently working AS Fulltime flutter freelancer developer
 - 💬 Ask me anything about any technical things related to mobile app development
 - 📫 Contact me:
      **Skype**: er.divyesh.shani , 
