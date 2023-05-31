@@ -1,7 +1,7 @@
 ### Hello World!! I am Divyesh M. Shani 👋
 
-- 🔭 I’m currently working AS Fulltime flutter freelancer developer
-- 💬 Ask me anything about any technical things related to mobile app development
+- 🔭 I’m currently working AS Fulltime web and mobile app developer
+- 💬 Ask me anything about any technical things related to web & mobile app development
 - 📫 Contact me:
      **Skype**: [er.divyesh.shani](skype:live:.cid.b794b3fc17918e26?chat) , 
      **Email**: div3791@gmail.com , 
